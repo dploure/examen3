@@ -6,7 +6,7 @@ package com.mycompany.ccuenta;
 
 /**
  *
- * @author david piedras loureiro
+ * @author david
  */
 public class CCuenta {
     // Propiedades de la Clase Cuenta
